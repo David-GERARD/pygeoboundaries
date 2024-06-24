@@ -1,0 +1,4 @@
+pymongo # installing bson alone will lead to an error
+requests
+geojson
+requests_cache
